@@ -1,5 +1,6 @@
-# Surprise-Housing-Assignment
-> Predicting the Surprise Housing price from given data set.
+# Project Name
+> Outline a brief description of your project.
+
 
 ## Table of Contents
 * [General Info](#general-information)
